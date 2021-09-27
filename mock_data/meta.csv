@@ -1,0 +1,4 @@
+sid,system size,panel power,number panels,tilt,orientation,lon,lat
+1, 2000, 250, 8, 30, West, 5, 52
+2, 4800, 150, 32, 40, North, 7, 54
+3, 3680, 230, 16, 55, South, 6, 53

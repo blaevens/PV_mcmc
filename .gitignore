@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+scripts/clustering_functions.py
+scripts/data_processing.py
+scripts/figs_tables.py
+scripts/mcmc_functions.py
+scripts/plot_functions.py
+scripts/synthethic_data.py
+mcmc.ipynb
